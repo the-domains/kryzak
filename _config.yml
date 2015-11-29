@@ -1,0 +1,28 @@
+name: Kryzak
+favicon: null
+layout_spectrum: 0.7133314702659845
+typography_spectrum: 0.6020177765749395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.16050691646523774
+  lightness: 0.0006609922274947166
+  saturation: 0.8947829296812415
+  rhythmicContrast: 0.0626959262881428
+purpose: []
